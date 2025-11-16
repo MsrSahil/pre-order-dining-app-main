@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <>
     
-      <div className="h-16 bg-amber-600 flex justify-between items-center px-4 fixed top-0 left-0 w-full z-50  ">
+      <div className="h-16 bg-transparent flex justify-between items-center px-4 fixed top-0 left-0 w-full z-50  ">
         <div>
           <Link
             to="/"
