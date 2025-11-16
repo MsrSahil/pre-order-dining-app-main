@@ -2,6 +2,8 @@ import React from 'react';
 
 import {BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Toaster } from 'react-hot-toast';
+import Navbar from './components/layout/Navbar';
+import Homepage from './pages/Homepage';
 
 
 const App = () => {
