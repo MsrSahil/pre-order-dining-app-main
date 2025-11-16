@@ -3,7 +3,7 @@ import React from 'react';
 import {BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Toaster } from 'react-hot-toast';
 import Navbar from './components/layout/Navbar';
-import Homepage from './assets/Homepage';
+import Homepage from './pages/Homepage';
 import Restaurant from './pages/Restaurant';
 import AboutPage from './pages/AboutPage';
 import LoginPage from './pages/LoginPage';
